@@ -1,0 +1,15 @@
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\bin\Debug\MVVMApp1.exe.config
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\bin\Debug\MVVMApp1.exe
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\bin\Debug\MVVMApp1.pdb
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\Views\MainView.g.cs
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\App.g.cs
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1_MarkupCompile.cache
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1_MarkupCompile.lref
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\Views\MainView.baml
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1.g.resources
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1.Properties.Resources.resources
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1.csproj.GenerateResource.cache
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1.csproj.CoreCompileInputs.cache
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1.exe
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1.pdb
+C:\Users\kammo\source\repos\MVVMApp1\MVVMApp1\obj\Debug\MVVMApp1.csprojAssemblyReference.cache
