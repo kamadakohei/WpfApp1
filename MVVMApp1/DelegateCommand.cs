@@ -12,7 +12,7 @@ namespace MVVMApp1
         /// <summary>
         /// コマンド実行時の処理内容を保持します。
         /// </summary>
-        private Action<Object> _execute;
+        private Func<Object, string> _execute;
         /// <summary>
         /// コマンド実行可能判別の処理内容を保持します。
         /// </summary>
@@ -21,7 +21,7 @@ namespace MVVMApp1
         /// 新しいインスタンスを生成します。
         /// </summary>
         /// <param name="execute">コマンド実行処理を指定します。</param>
-        public DelegateCommand(Action<object> execute)
+        public DelegateCommand(Func<Object, string> execute)
         : this(execute, null)
         {
         }
@@ -30,7 +30,7 @@ namespace MVVMApp1
         /// </summary>
         /// <param name="execute">コマンド実行処理を指定します。</param>
         /// <param name="canExecute">コマンド実行可能判別処理を指定します。</param>
-        public DelegateCommand(Action<object> execute, Func<object, bool> canExecute)
+        public DelegateCommand(Func<Object, string> execute, Func<object, bool> canExecute)
         {
             this._execute = execute;
             this._canExecute = canExecute;
