@@ -55,8 +55,8 @@ namespace MVVMApp1.ViewModels
 
         private string GetHttpStatus(object inputUrl)
         {
-                HttpWebRequest myHttpWebRequest = (HttpWebRequest)WebRequest.Create(inputUrl.ToString());
-                HttpWebResponse myHttpWebResponse = (HttpWebResponse)myHttpWebRequest.GetResponse();
+            HttpWebRequest myHttpWebRequest = (HttpWebRequest)WebRequest.Create(inputUrl.ToString());
+            HttpWebResponse myHttpWebResponse = (HttpWebResponse)myHttpWebRequest.GetResponse();
             return myHttpWebResponse.Headers.ToString();
         }
     }
